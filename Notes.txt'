@@ -1,0 +1,13 @@
+socketio is an open Bidirectional communication, open door between the client and the server
+traversey video: https://www.youtube.com/watch?v=jD7FnbI76Hg&t=514s
+socket.io docs: https://www.npmjs.com/package/socket.io      https://socket.io/docs/v4/
+
+the flow:
+1. In server.js make a connection with express after the installs
+2. In server ,make connection io.on('connection', socket => { } )
+3. 
+
+
+io.emit emits to everybody,
+
+left at 28:00
